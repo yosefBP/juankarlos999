@@ -1,7 +1,15 @@
-# Hello World!! 👋 I'm Juan Rengifo 💻
-## Full Stack Software Developer
+![Alt Text](https://media.giphy.com/media/XzUQTy8Ia9ajYvQN1H/giphy.gif)
+## Software Developer
 
-<img src="https://github.com/juankarlos999/juankarlos999/blob/master/my_profile_Github.png">
+Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
+Con experiencia en soporte de aplicaciones y conocimientos en backend y frontend.
+Me gustan los desafíos, soy autodidacta, trabajo en equipo, adaptable a
+los cambios. Entusiasmado por aprender nuevas tecnologías, lenguajes de programación.
+Siempre dispuesto a adquirir una nueva habilidad 
 
-- 🐦 my [Twitter](https://twitter.com/Juan_Karlos_999 "Twitter profile")
-- 💼 My personal [Linkedin](https://www.linkedin.com/in/juan-r-95547a192/ " Go...")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juankarlos999&show_icons=true&theme=radical&custom_title=GitHubStats&&hide=stars,prs,issues,contribs)
+
+<img src="https://github.com/juankarlos999/juankarlos999/blob/master/my_profile_Github.png" sizes="(min-width: 600px) 200px, 50vw">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact&&langs_count=8)](https://github.com/juankarlos999/github-readme-stats)
+
