@@ -8,7 +8,7 @@ Me gustan los desafíos, soy autodidacta, trabajo en equipo, adaptable a
 los cambios. Entusiasmado por aprender nuevas tecnologías, lenguajes de programación.
 Siempre dispuesto a adquirir una nueva habilidad.
 
-<img align="left" src="https://github.com/juankarlos999/juankarlos999/blob/master/lenguajes.png" height="190" width="450">
+<img align="left" src="https://github.com/juankarlos999/juankarlos999/blob/master/lenguajes.png" height="190" width="470">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact&&langs_count=8)](https://github.com/juankarlos999/github-readme-stats)
 
