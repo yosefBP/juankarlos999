@@ -11,7 +11,7 @@ Siempre dispuesto a adquirir una nueva habilidad.
 <img align="right" src="https://github.com/juankarlos999/juankarlos999/blob/master/lenguajes.png" height="180" width="450">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact&&langs_count=8" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact&&langs_count=8" height="300" width="500">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact&&langs_count=8)](https://github.com/juankarlos999/github-readme-stats)
