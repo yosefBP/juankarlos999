@@ -1,5 +1,5 @@
-![Alt Text](https://media.giphy.com/media/JTtcqq5HfYAPplnO58/giphy.gif)
-## Full Stack Software Developer
+![Alt Text](https://media.giphy.com/media/XzUQTy8Ia9ajYvQN1H/giphy.gif)
+## Software Developer
 
 Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
 Con experiencia en soporte de aplicaciones y conocimientos en backend y frontend.
