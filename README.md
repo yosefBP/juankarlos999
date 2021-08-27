@@ -1,3 +1,4 @@
+<img  align="center" src="https://media.giphy.com/media/XzUQTy8Ia9ajYvQN1H/giphy.gif">
 ![Alt Text](https://media.giphy.com/media/XzUQTy8Ia9ajYvQN1H/giphy.gif)
 ## Software Developer
 
