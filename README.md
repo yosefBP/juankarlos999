@@ -9,4 +9,5 @@ Siempre dispuesto a adquirir una nueva habilidad
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juankarlos999&show_icons=true&theme=radical&custom_title=GitHubStats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact)](https://github.com/juankarlos999/github-readme-stats)
+
