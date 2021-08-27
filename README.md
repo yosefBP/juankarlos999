@@ -7,4 +7,4 @@ Me gustan los desafíos, soy autodidacta, trabajo en equipo, adaptable a
 los cambios. Entusiasmado por aprender nuevas tecnologías, lenguajes de programación.
 Siempre dispuesto a adquirir una nueva habilidad 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juankarlos999&show_icons=true&theme=radical&custom_title="GitHub stats")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juankarlos999&show_icons=true&theme=radical&custom_title=GitHubStats)
