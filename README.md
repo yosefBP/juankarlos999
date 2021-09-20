@@ -8,8 +8,8 @@ Me gustan los desafíos, soy autodidacta, trabajo en equipo, adaptable a
 los cambios. Entusiasmado por aprender nuevas tecnologías, lenguajes de programación.
 Siempre dispuesto a adquirir una nueva habilidad.
 
-<img align="left" src="https://github.com/juankarlos999/juankarlos999/blob/master/lenguajes.png" height="190" width="400" class="responsive">
+<img align="left" src="https://github.com/yosefBP/yosefBP/blob/master/lenguajes.png" height="190" width="400" class="responsive">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankarlos999&layout=compact&&langs_count=8)](https://github.com/juankarlos999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefBP&layout=compact&&langs_count=8)](https://github.com/yosefBP/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juankarlos999&show_icons=true&theme=radical&custom_title=GitHubStats&&hide=stars,prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefBP&show_icons=true&theme=radical&custom_title=GitHubStats&&hide=stars,prs,issues,contribs)
