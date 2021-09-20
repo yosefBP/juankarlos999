@@ -1,8 +1,8 @@
 <img align="center" src="https://media.giphy.com/media/XzUQTy8Ia9ajYvQN1H/giphy.gif" class="responsive">
 
-## Software Developer
+## Software Developer 🤓
 
-Tecnólogo en Análisis y Desarrollo de Sistemas de Información.  🤓
+Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
 Con experiencia en soporte de aplicaciones y conocimientos en backend y frontend.
 Me gustan los desafíos, soy autodidacta, trabajo en equipo, adaptable a
 los cambios. Entusiasmado por aprender nuevas tecnologías, lenguajes de programación.
