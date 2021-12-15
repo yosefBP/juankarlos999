@@ -3,7 +3,7 @@
 ## Software Developer 🤓
 
 Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
-Con experiencia en soporte de aplicaciones y conocimientos en backend y frontend.
+Con experiencia en backend, frontend y soporte de aplicaciones.
 Me gustan los desafíos, soy autodidacta, trabajo en equipo, adaptable a
 los cambios. Entusiasmado por aprender nuevas tecnologías, lenguajes de programación.
 Siempre dispuesto a adquirir una nueva habilidad.
